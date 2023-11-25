@@ -1,9 +1,9 @@
 import React from 'react'
-import './services.css'
-const services = () => {
+import './Services.css'
+const Services = () => {
   return (
-    <div>services</div>
+    <div>Services</div>
   )
 }
 
-export default services
+export default Services

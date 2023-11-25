@@ -1,7 +1,7 @@
 import React from "react";
-import "./experince.css";
-const experince = () => {
-  return <div>experince</div>;
+import "./Experince.css";
+const Experince = () => {
+  return <div>Experince</div>;
 };
 
-export default experince;
+export default Experince;
